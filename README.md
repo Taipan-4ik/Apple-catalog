@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
+# Nice-gadgets — a modern React + TypeScript web page for showcasing and selling Apple devices.
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+ Features smooth animations, responsive layout, and a clean, minimalist design inspired by Apple’s style.
