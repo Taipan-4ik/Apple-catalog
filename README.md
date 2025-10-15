@@ -3,6 +3,9 @@
 Web page for showcasing and selling Apple devices. 
  🎨 [View Figma design](https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark)
 
+> 🚀 [Live Demo](https://taipan-4ik.github.io/Apple-catalog/)
+
+
 ## Technologies Used 💻
 
 ### Core
